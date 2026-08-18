@@ -36,5 +36,5 @@ An interactive data visualization dashboard designed to analyze and explore the 
    ```bash
    git clone [https://github.com/Gayatri-tech24/netflix-analytics-dashboard.git](https://github.com/Gayatri-tech24/netflix-analytics-dashboard.git)
    cd netflix-analytics-dashboard
-   <img width="1353" height="581" alt="image" src="https://github.com/user-attachments/assets/2cc363ea-373c-4dbb-83c6-b0f4f156a26c" />
+   
 
